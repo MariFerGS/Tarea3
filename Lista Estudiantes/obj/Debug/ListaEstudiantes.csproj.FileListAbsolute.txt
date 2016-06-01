@@ -1,0 +1,6 @@
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\ListaEstudiantes\ListaEstudiantes\bin\Debug\ListaEstudiantes.exe.config
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\ListaEstudiantes\ListaEstudiantes\bin\Debug\ListaEstudiantes.exe
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\ListaEstudiantes\ListaEstudiantes\bin\Debug\ListaEstudiantes.pdb
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\ListaEstudiantes\ListaEstudiantes\obj\Debug\ListaEstudiantes.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\ListaEstudiantes\ListaEstudiantes\obj\Debug\ListaEstudiantes.exe
+C:\Users\M.Fernanda\Desktop\Fer\UH\Programación\Programación II\Visual Studio 2015\Projects\ListaEstudiantes\ListaEstudiantes\obj\Debug\ListaEstudiantes.pdb
